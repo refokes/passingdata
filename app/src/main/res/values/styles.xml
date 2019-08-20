@@ -1,0 +1,16 @@
+<resources>
+    <string name="move_with_result">Pindah Activity Untuk Result</string>
+    <string name="result_from_activity">Hasil :</string>
+    <string name="dial_number">Dial Number</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
